@@ -1,0 +1,26 @@
+{
+  "name": "테토vs에겐 - 성향 분석",
+  "short_name": "테토vs에겐",
+  "description": "사진 한 장으로 분석하는 재미있는 성향 테스트",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait",
+  "categories": ["entertainment", "lifestyle"],
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
